@@ -1,0 +1,12 @@
+@import url(http://weloveiconfonts.com/api/?family=fontawesome);
+
+
+.icon-twitter:before {
+    font-family: 'FontAwesome', sans-serif;
+    content: "\f099"; 
+}
+
+.icon-facebook:before {
+    font-family: 'FontAwesome', sans-serif;
+    content: "\f09a"; 
+}
