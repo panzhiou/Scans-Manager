@@ -2,7 +2,7 @@
 A blog with reader, to help to scanlators.
 
 Install:
-Create a db and import dbsm.sql to your db.
+Create a db and import dbsm.sql file to your db.
 edit files: application/config/config.php and application/config/database.php
 
 Use:
