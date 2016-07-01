@@ -1,5 +1,5 @@
 # Scans-Manager
-A blog with reader, to help to scanlators.
+A simple blog with a manga reader.
 
 Install:
 ----------
@@ -15,12 +15,12 @@ and login with:
 - admin@admin.com
 - password
 
-then you need to edit it with phpmyadmin.
+*You can use phpmyadmin to edit admin user, make sure to encrypt your password with md5.
 
 
 To do list:
 ----------
-- Upload by pages
-- staff view
-- a proper reader
-- users edit in admin
+- Upload chapters by pages
+- Staff view
+- Some issues with admin panel
+- Search series
